@@ -1,4 +1,8 @@
 name: Fortress Verified - Nexus Deploy & Audit
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 on:
   push:
